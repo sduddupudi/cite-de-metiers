@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3014" data-name="Rectangle 3014" width="40" height="40" transform="translate(-578 1141)" fill="red" opacity="0.5"/>
+    </clipPath>
+  </defs>
+  <g id="slick-next" transform="translate(578 -1141)" clip-path="url(#clip-path)">
+    <g id="slick-next-2" data-name="slick-next" transform="translate(-541 1141) rotate(90)" fill="#161616">
+      <path d="M 32.24569320678711 30.5 L 7.754307270050049 30.5 L 20 9.070037841796875 L 32.24569320678711 30.5 Z" stroke="none"/>
+      <path d="M 20 18.14008140563965 L 15.50861930847168 26 L 24.49138259887695 26 L 20 18.14008140563965 M 20 0 L 40 35 L 0 35 L 20 0 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>

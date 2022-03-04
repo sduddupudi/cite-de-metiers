@@ -325,7 +325,6 @@ section.defis_section h1.title_text {
     display: flex;
     justify-content: center;
     align-items: center;
-    line-height: 35px;
     position: relative;
 }
 
